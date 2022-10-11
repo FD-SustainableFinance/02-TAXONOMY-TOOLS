@@ -12,7 +12,7 @@ The primary tool at present is provided by Solidatus. Their web tool allows for 
 1. individual taxonomy files
 2. mappings between different taxonomy files
 3. visualise the taxonomies and mappings
-4. inspect the actributes and mappings of taxonomies
+4. inspect the attributes and mappings of taxonomies
 5. export the taxonomy file code in various formats
 
 ### Projects

@@ -41,9 +41,9 @@
 This will evolve as a "Library of Interactive Taxonomy Tools" to support users for exploring and comparing taxonomy files - for human interaction and download of machine and human readable taxonomy files.
 
 ### Solidatus
-The primary tool at present is provided by Solidatus. Their web tool allows for human users to interact with:
-1. individual taxonomy files
-2. mappings between different taxonomy files
+The primary tool at present is provided by Solidatus. Their web tool allows for human users to:
+1. interact with individual taxonomy files
+2. interact with mappings between different taxonomy files
 3. visualise the taxonomies and mappings
 4. inspect the attributes and mappings of taxonomies
 5. export the taxonomy file code in various formats

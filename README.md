@@ -48,7 +48,7 @@ The primary tool at present is provided by Solidatus. Their web tool allows for 
 4. inspect the attributes and mappings of taxonomies
 5. export the taxonomy file code in various formats
 
-To contact Solidatus, please visit the Partner page.
+To contact Solidatus, please visit the [Partners](https://github.com/FD-SustainableFinance/06-PARTNERS/blob/main/README.md) page.
 
 ### Projects
 For access to the library and tools: 

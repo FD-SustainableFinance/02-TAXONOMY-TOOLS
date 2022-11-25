@@ -52,5 +52,5 @@ To contact Solidatus, please visit the [Partners](https://github.com/FD-Sustaina
 
 ### Projects
 For access to the library and tools: 
-1. go to [Taxonomy & Mappings Project](https://github.com/orgs/FD-SustainableFinance/projects/2)
-2. go to [Projects](https://github.com/orgs/FD-SustainableFinance/projects) to see the full projects list as it evolves
+1. go to [Taxonomy & Mappings Project](https://github.com/orgs/OS-SFT/projects/2)
+2. go to [Projects](https://github.com/orgs/OS-SFT/projects) to see the full projects list as it evolves
